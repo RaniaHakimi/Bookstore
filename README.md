@@ -18,7 +18,7 @@ Setting up github on eclipse: https://www.vogella.com/tutorials/EclipseGit/artic
 
 Project Structure:
 
-Servlet will perfrom input validation.
+Servlet will perform input validation.
 
 Services will catch any other errors and provide a message to what error is.
 
